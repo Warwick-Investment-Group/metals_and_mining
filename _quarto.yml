@@ -9,6 +9,9 @@ website:
         # logo: "warwick-investment-group.png"
       - href: index.qmd
         text: Home
+      - America.qmd
+      - Australia.qmd
+      - Canada.qmd
       - about.qmd
 
 format:
@@ -23,7 +26,7 @@ format:
     linestretch: 1.5
     toc: true
     toc-title: Contents
-    toc-location: right
+    toc-location: left
     toc-depth: 4
     # number-sections: true
     # anchor-sections: true
