@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "metals"
+  navbar:
+    left:
+        # logo: "warwick-investment-group.png"
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    minimal: true
+    theme: 
+      light: [cosmo, my-theme.scss]
+
+    fontsize: 1.2 em
+    # mainfont:
+    # fontcolor:
+    linestretch: 1.5
+    toc: true
+    toc-title: Contents
+    toc-location: left
+    toc-depth: 3
+    # number-sections: true
+    # anchor-sections: true
+    smooth-scroll: true
+
+# comments:
+#   hypothesis: true

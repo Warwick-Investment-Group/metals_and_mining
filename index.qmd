@@ -1,0 +1,89 @@
+---
+title: "Metal Regulatory Process"
+---
+
+# Metals and Mining Information
+## Overview
+
+The mining industry has long been a critical component of global economic development. However, with the potential for significant environmental and social impacts, the mining sector is also one of the most heavily regulated industries in the world. From obtaining permits to complying with safety regulations, navigating the complex regulatory landscape can be a daunting task for mining companies. In this document, we delve into the metals and mining regulator process, providing a comprehensive overview of the regulations and procedures involved in the mining sector. 
+
+## About Minerals and Mining
+
+The Mining Law, as amended, opened the public lands of the United States to mineral acquisition by the location and maintenance of mining claims.
+
+Mineral deposits subject to acquisition in this manner are generally referred to as "locatable minerals."  Locatable minerals include both metallic minerals (gold, silver, lead, copper, zinc, nickel, etc.) and nonmetallic minerals (fluorspar, mica, certain limestones and gypsum, tantalum, heavy minerals in placer form, and gemstones).
+
+Starting in 1873, the Department of the Interior began defining locatable minerals as those minerals that are:
+
+- recognized as a mineral by the standard experts,
+- are not subject to disposal under some other law, and
+- make the land more valuable for mining than for farming.
+
+Minerals normally locatable on lands acquired (purchased or received) under the Acquired Lands Act of 1947 by the United States or found on Indian reservations are subject to lease only (43 CFR Group 3500).
+
+*Code of Federal Regulatoins* [Link](https://www.ecfr.gov/current/title-43/subtitle-B/chapter-II/subchapter-C/part-3500)
+
+Since 1920, the Federal government has leased fuels and certain other minerals, charging a royalty on the value of the mined and sold material. Today, minerals that are subject to lease include oil and gas, oil shale, geothermal resources, potash, sodium, native asphalt, solid and semisolid bitumen, bituminous rock, phosphate, and coal.
+
+*Bureau of Land Management* [Link](https://www.blm.gov/programs/energy-and-minerals/mining-and-minerals/about)
+
+## Laws
+
+### Mining Law of 1872
+The federal law governing locatable minerals is the Mining Law of 1872 (May 10, 1872), which declared all valuable mineral deposits in land belonging to the United States to be free and open to exploration and purchase.  This law provides citizens of the United States the opportunity to explore for, discover, and purchase certain valuable mineral deposits on federal lands that are open for mining location and patent (open to mineral entry).
+
+### Mineral Leasing Act of 1920
+This law provided for the leasing of minerals from public lands including oil, gas, coal and other non-energy leasable minerals such as phosphates and sodium. It requires that a royalty be paid on amounts mined and sold.
+
+### Materials Act of 1947 
+This law provides for the disposal of mining materials on public lands, both saleable and leasable.  Under this Act, some “common variety” minerals, such as sand and gravel, are subject to sale as opposed to rents and royalties.
+
+### Mining and Mineral Policy of 1970
+This law declares that it is the continuing policy of the federal government to foster and encourage private enterprise in the development of a stable domestic minerals industry and the orderly and economic development of domestic mineral resources. This act includes all minerals, including sand and gravel, geothermal, coal, and oil and gas.
+
+### Stock Raising Homestead Act Amendment of April 16, 1993 (Split Estate)
+Stock Raising Homestead Act (SRHA) lands are different from other federal lands in that the United States owns the mineral estate, but not the surface estate.  Patents issued under the SRHA and Homestead Act entries patented under the SRHA reserve the mineral estate to the United States along with the right to enter, mine, and remove any reserved minerals that may be present in the mineral estate. The law allowed a settler to claim 640 acres of non-irrigable land that had been designated by the Secretary of the Interior as "stock raising" land. Mineral exploration was beginning to escalate and the Federal government opted to maintain the mineral rights to the land claimed under this law.
+
+### Federal Land Policy & Management Act of 1976 (FLPMA)
+This Act did not amend the 1872 law, but did affect the recordation and maintenance of claims.  Persons holding existing claims were required to record their claims with the BLM, and all new claims and sites were required to be recorded with the BLM.  The law gave the BLM information on the location and number of unpatented mining claims, mill sites, and tunnel sites; helped determine the names and addresses of current owners; and helped remove any cloud of title on abandoned claims.
+
+## Types of Minerals
+The minerals on Federal lands are divided into three categories, each subject to different laws and regulations. 
+
+### Locatable
+Minerals which are subject to the Mining Law of 1872, as amended, include gold, silver, copper and other hard rock minerals.
+
+### Leasable
+Minerals such as coal and a host of other commodities, are subject to various Mineral Leasing Acts.
+
+### Saleable
+Minerals such as sand and gravel that are essential to construction and road building, are subject to the Materials Act of 1947, as amended.
+
+## Bonding
+
+A bond is a financial guarantee, given to provide assurance to one party that another party will fulfill an obligation it has undertaken to perform. Under a bond, the principal on a personal bond is responsible to fulfill a contractual obligation. If the principal does not perform the contractual obligation, the bond may be collected. The operator on the notice or plan must be the principal (obligor) on the bond.  If the principal is not the operator, then a bond rider is required to cover operations conducted by the operator. 
+
+The BLM and many states require a surface management bond on all so-called “3809 notices and plans of operation,” which are those governed by the 43 CFR Subpart 3809.  These regulations require anyone intending to develop mineral resources on the public lands to prevent unnecessary or undue degradation of the land and reclaim disturbed areas. To guarantee this you must file a bond. You may be able to file a joint bond to demonstrate that the operator/principal is bound to the United States and the state where you plan to operate. In those cases, the financial instrument must be payable to the United States and the state.  Check with you local BLM office and your state government for specific guidance.
+
+### Surety Bond
+A corporate surety bond consists of a promise by a principal and surety to the United States that the surety will correct any default should the principal not do so, paying up to the limits of the amount of the bond. A surety bond is a three-way contract between the principal, the surety, and the United States (and the State in the case of joint bond). 
+
+When filing a joint bond with the BLM, the Surface Management Surety Bond form **(Form 3809-1)** must be used. Check with your state for forms that it may require.
+
+### Personal Bond
+The principal may furnish a personal bond in lieu of a surety bond to ensure compliance with all the terms and conditions of a plan of operations on public land.
+
+The BLM accepts three financial forms of personal bonds: Cash Bond, Letter of Credit (LOC), and Certificate of Deposit (CD).  The BLM Surface Management Personal Bond form **(Form 3809-2)** must accompany the financial instrument.
+
+# States
+## Alaska
+## Arizona
+### Overview
+The BLM administers approximately 17.5 million subsurface acres, and supervises mineral operations on about 73,000 acres of Native American lands across the state. There are more than 45,000 mining claims recorded on Arizona’s public lands, where exploration and development of these vital assets provides materials found in everything from computers to dental fillings. Arizona’s public lands also provide a good source for salable minerals, such as sand, gravel, stone, and clay, permitting over 2 million tons worth over $2 million annually.
+## California
+## Colorado
+## Montana/Dakotas
+## Nevada
+## Oregon-Washington
+## Utah
+## Wyoming
