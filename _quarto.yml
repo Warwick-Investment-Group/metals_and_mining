@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "metals"
+  title: "WNEF"
   navbar:
     left:
         # logo: "warwick-investment-group.png"
@@ -23,8 +23,8 @@ format:
     linestretch: 1.5
     toc: true
     toc-title: Contents
-    toc-location: left
-    toc-depth: 3
+    toc-location: right
+    toc-depth: 4
     # number-sections: true
     # anchor-sections: true
     smooth-scroll: true
