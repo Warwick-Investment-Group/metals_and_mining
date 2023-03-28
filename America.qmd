@@ -64,7 +64,7 @@ Minerals such as sand and gravel that are essential to construction and road bui
 
 *More information:* [link](https://www.blm.gov/programs/energy-and-minerals/mining-and-materials/saleable-minerals)
 
-## Locatable Minerals
+## More on Locatable Minerals
 
 The Mining Law of 1872, as amended, is the major Federal law governing locatable minerals. This law allows U.S. citizens the opportunity to explore for, discover, and purchase certain valuable mineral deposits on Federal lands that are open for mining claim location (open to mineral entry). 
 
@@ -75,6 +75,10 @@ These mineral deposits include most metallic mineral deposits and certain nonmet
 A mining claim is a parcel of land for which the claimant has asserted a right of possession and the right to develop and extract a discovered, valuable, mineral deposit. This right does not include exclusive surface rights (see Public Law 84-167).
 
 There are three basic types of minerals on federally-administered lands: locatable, leasable, and salable. Mining claims are staked for locatable minerals on public domain lands.
+
+State Requirements
+
+Provisions of the Mining Law allow for the development of local rules that are consistent with federal law. Therefore, individual states can have their own manner of locating and recording mining claims
 
 #### Types of Claims
 
